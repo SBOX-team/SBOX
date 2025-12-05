@@ -1,29 +1,36 @@
-⚡ SBox – Scratch Virtual Console ⚡
 
-SBox is a physically accurate optical storage system built in PenguinMod Scratch, designed to mimic the 2001 Xbox while remaining its own unique console.
+## ⚡ SBox – Scratch Virtual Console ⚡
 
-🌟 Features
+**SBox** is a physically accurate optical storage system built in **PenguinMod Scratch**, designed to **mimic the 2001 Xbox** while remaining its own **unique console**.
 
-3D engine integration
 
-Games built in pseudocode for easy programming
+---
 
-High FPS for smooth gameplay
+## 🌟 Features
 
-⚙️ How It Works
+* **3D engine integration**
+* **Games built in pseudocode for easy programming**
 
-Instructions are stored as text strings
+* **High FPS** for smooth gameplay
 
-Engine loops through instructions, executing them in real time
+---
 
-📝 Notes
+## ⚙️ How It Works
 
-Optimized for small teams and flexible engine testing
+1. **Instructions** are stored as text strings
+2. Engine **loops through instructions**, executing them in real time
 
-Designed for expandability:
 
-Add new objects
+---
 
-Create new levels
+## 📝 Notes
 
-Introduce new mechanics
+* Optimized for **small teams** and flexible engine testing
+* Designed for **expandability**:
+
+  * Add new objects
+  * Create new levels
+  * Introduce new mechanics
+
+
+---
