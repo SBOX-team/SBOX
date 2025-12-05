@@ -1,7 +1,7 @@
 
 ## ⚡ SBox ⚡
 
-**SBox** is a physically accurate optical storage system built in **PenguinMod Scratch**, designed to **mimic the 2001 Xbox** while remaining its own **unique console**.
+**SBox** is a game console built in **PenguinMod Scratch**, designed to **mimic the 2001 Xbox** while remaining its own **unique console**.
 
 
 ---
